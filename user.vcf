@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Jean-Pierre;Ketly;;;
+FN: Ketly Jean-Pierre 
+ORG:SideBar Solutions, LLC;
+TITLE:Co-Owner\nLead Developer
+EMAIL;type=INTERNET;type=WORK;type=pref:solutions@sidebarsolutions.net
+TEL;type=WORK;type=VOICE:+1 954 526 4265
+item1.ADR;type=WORK;type=pref:;;Oakland Park;FL;;33334;United States of America
+item1.X-ABADR:sg
+item2.URL;type=pref:https://sidebarsolutions.net
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
